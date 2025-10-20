@@ -1,1 +1,2 @@
-print('qwerty')
+for k in range(10000):
+    print('Hello World')
